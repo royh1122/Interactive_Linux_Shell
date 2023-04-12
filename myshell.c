@@ -216,7 +216,7 @@ void read_tokens(char **argv, char *line, int *numTokens, char *delimiter)
 // Implementation of show_prompt
 void show_prompt()
 {
-    printf("ihuangaa> ");
+    printf("MyShell> ");
 }
 
 // Implementation of get_cmd_line
